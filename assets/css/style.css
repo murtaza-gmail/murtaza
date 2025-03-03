@@ -1099,6 +1099,10 @@ section {
 }
 
 @media (max-width: 1199px) {
+  #hero{
+    background-position: 100%;
+    background-size: cover;
+  }
   #footer {
     position: static;
     width: auto;
